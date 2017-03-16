@@ -1,0 +1,13 @@
+Điều/N 49/M ./. 
+Họp Hội/M đồng/Nu quản trị/V 
+1/M ./. Các/L nội dung/N liên quan/V đến/E việc/N họp/V Hội đồng quản trị/N thực hiện/V theo/V quy định/N tại/E các/L khoản/N 1/M ,/, 2/M ,/, 3/M ,/, 4/M ,/, 6/M ,/, 7/M Điều/N 112/M Luật Doanh/Np nghiệp/N ./. 
+2/M ./. Chủ tịch/N hoặc/CC thành viên/N Hội đồng quản trị/N được/V Chủ tịch/N ủy quyền/V phải/V triệu tập/V họp/V Hội đồng quản trị/N trong/E thời hạn/N 15/M ngày/N ,/, kể/V từ/E ngày/N nhận/V được/R một/M trong/E các/L đề nghị/N theo/V quy định/N tại/E Nghị định/N này/P ./. 
+Trường hợp/N Chủ tịch/N hoặc/CC người/N được/V ủy quyền/V không/R triệu tập/V họp/V Hội đồng quản trị/N theo/E đề nghị/N thì phải/V chịu/V trách nhiệm/N về/E những/L thiệt hại/N xảy ra/V đối với/E ngân hàng/N ,/, trừ/V trường hợp/N không/R triệu tập/V họp/V được/R vì/E lý do/N bất khả kháng/A ;/; trong/E trường hợp/N này/P ,/, người/N đề nghị/V họp/V Hội đồng quản trị/N có/V quyền/N triệu tập/V họp/V Hội đồng quản trị/N ,/, các/L thành viên/N Hội đồng quản trị/N dự/V họp/V bỏ phiếu/V bầu/N chủ tọa/N cuộc/N họp/V ./. 
+3/M ./. Ngân hàng/N quy định/N trong/E Quy định/N nội bộ/N của/E Hội đồng quản trị/N các/L trường hợp/N họp/V khẩn cấp/V ,/, thời hạn/N thông báo/V và/CC hình thức/N thông báo/V mời/V họp/V Hội đồng quản trị/N trong/E trường hợp/N cần/V họp/V khẩn cấp/A ./. 
+4/M ./. Cuộc/N họp/V Hội đồng quản trị/N được/V tiến hành/V khi/N có/V từ/E 3/4/M (/N ba phần tư/N )/M tổng số/N thành viên/N trở lên/A dự/V họp/V ./. 
+Trường hợp/N không/R trực tiếp/A dự/V họp/V ,/, thành viên/N Hội đồng quản trị/N có/V quyền/N ủy quyền/V biểu quyết/V cho/E một/M thành viên/N Hội đồng quản trị/N khác/A hoặc/CC gửi/V ý kiến/N biểu quyết/V bằng/E văn bản/N ./. 
+Trường hợp/N biểu quyết/V bằng/E văn bản/N ,/, phiếu/N biểu quyết/V phải/V đựng/V trong/E phong bì/N kín/A và/CC phải/V được/V chuyển/V đến/E chủ tọa/N cuộc/N họp/V Hội đồng quản trị/N chậm/A nhất/A 01/M giờ/Nu trước/E giờ/N khai mạc/V ./. 
+Phiếu/N biểu quyết/A chỉ/R được/V mở/V trước/E sự/Nc chứng kiến/V của/E tất cả/P những/L thành viên/N trực tiếp/A dự/V họp/V ./. 
+5/M ./. Thành viên/N Hội đồng quản trị/N được/V ủy quyền/V cho/E người/N khác/A không/R phải/V là/V thành viên/N Hội đồng quản trị/N dự/V họp/V nếu/C được/V đa số/L thành viên/N hội đồng quản trị/N chấp thuận/V ./. 
+Trong/E trường hợp/N này/P ,/, người/N được/V ủy quyền/V dự/V họp/V không/R được/R biểu quyết/V ./. 
+6/M ./. Quyết định/V của/E Hội đồng quản trị/N được/V thông qua/V nếu/C được/V đa số/L phiếu/N tán thành/V ,/, bao gồm/V cả/P phiếu/N biểu quyết/V bằng/E văn bản/N và/CC biểu quyết/V theo/V ủy quyền/V ;/; trường hợp/N số/N phiếu/N ngang/V nhau/N thì/C quyết định/V cuối cùng/A thuộc/V về/E phía/N có/V ý kiến/N của/E người/N chủ tọa/N cuộc/N họp/V ./. 
