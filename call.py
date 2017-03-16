@@ -22,4 +22,8 @@ data = "\n".join([s1, s2])
 
 r = requests.post("http://150.65.242.122:8224/api/tokenizer/vn/", data=data)
 
-print r.text
+import json
+data = json.loads(r.text)
+for line in data:
+    print line
+
