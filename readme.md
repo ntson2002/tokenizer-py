@@ -20,7 +20,8 @@ print r.text
 ```
 
 ## From Python call VnTokenizer 
-```
+
+```python
 import requests
 
 s1 = "Phó thủ tướng Malaysia Ahmad Zahid Hamidi hôm qua cho biết thi thể ông Kim Jong-nam đã được xác định dựa trên mẫu ADN con ông cung cấp."
