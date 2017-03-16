@@ -45,6 +45,7 @@ class VnTokenizer:
         data = get_all_lines(output_path)
         os.remove(input_path)
         os.remove(output_path)
+
         os.chdir(workdir)
 
         return json.dumps(data, indent=4, sort_keys=True, encoding="utf-8")
