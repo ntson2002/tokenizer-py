@@ -1,5 +1,7 @@
 # tokenizer api
 
+
+## From python 
 ```python
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
@@ -16,3 +18,6 @@ r = requests.post("http://150.65.242.122:8224/api/tagger/vn/", data=data)
 print r.text
 
 ```
+
+
+## From Javascript 
